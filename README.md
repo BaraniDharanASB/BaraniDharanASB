@@ -20,7 +20,6 @@ I'm an enthusiastic Full Stack Developer with a strong focus on **Python** and a
 - **GitHub:** [github.com/yourusername](https://github.com/yourusername)
 - **LinkedIn:** [linkedin.com/in/yourname](www.linkedin.com/in/
 barani-dharan-592b2a2a3)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
 - **Email:** baranidharan94870@gmail.com
 
 Feel free to check out my repositories and contribute! 🚀
